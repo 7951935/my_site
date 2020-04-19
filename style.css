@@ -18,10 +18,33 @@ header {
 }
 .header_logo {
     text-transform: uppercase;
-    color: #D38E3B;
+    color: #D58B41;
     font-weight: 500;
     font-size: 24px;
     cursor: pointer;
-    margin-left: 56px;
-    margin-left: 12%;
+    margin-right: 5%;
+    margin-left: 5%;
+    margin-top: 15px;
 }
+nav {
+    margin-top: 50px;
+    margin-left: 29%;
+}
+.topnav a{
+    color:#D58B41;
+     text-align: center;
+     padding: 10px 14px;
+     font-size: 14px;
+     font-weight: bold;
+    }
+.topnav a:hover{
+    border-bottom: 3px solid #D56B18;
+}
+.topnav .icon{
+    display: none;
+}
+
+
+
+
+
